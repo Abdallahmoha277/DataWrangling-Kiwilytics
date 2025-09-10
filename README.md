@@ -47,8 +47,4 @@ I prepared a **final, cleaned dataset** ready for:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abdallahmoha277/Kiwilytics-Data-Wrangling/blob/main/Kiwilytics_DataWrangling.ipynb)
 
----
-
-## 📷 Sample Screenshot
-(I will add a screenshot of my notebook output or summary here, e.g., value counts or final cleaned table.)
 
