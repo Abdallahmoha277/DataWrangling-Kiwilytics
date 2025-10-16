@@ -45,7 +45,6 @@ I prepared a **final, cleaned dataset** ready for:
 1. Clone this repository or open the notebook directly in Colab.  
 2. Run all cells to reproduce my results.  
 
-[[Open In Colab](https://colab.research.google.com/github/Abdallahmoha277/DataWrangling-Kiwilytics/blob/main/Kiwilytics_DataWrangling.ipynb)](https://colab.research.google.com/github/Abdallahmoha277/Kiwilytics-Data-Wrangling/blob/main/Kiwilytics_DataWrangling.ipynb
-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abdallahmoha277/DataWrangling-Kiwilytics/blob/main/Kiwilytics_DataWrangling.ipynb)
 
 
