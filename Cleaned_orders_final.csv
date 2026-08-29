@@ -1,0 +1,243 @@
+OrderID,CustomerID,OrderDate,ShippedDate,ShippingCost,ShipCountry,ShipCity,ShippingCompany,DeliveryDays,DeliveryStatus
+1000.0,C001,2025-05-17,2025-07-30,,Germany,Hamburg,Kiwilytics Goods Shipping LLC,74 days,Delivered
+1001.0,C002,2025-01-26,2025-07-30,320.61,Canada,Montreal,UPS Worldwide,185 days,Delivered
+1002.0,C003,2025-03-08,2025-07-30,165.17,Canada,Vancouver,FedEx Logistics,144 days,Delivered
+1003.0,C004,2025-03-24,2025-07-30,12.55,Germany,Munich,Aramex International,128 days,Delivered
+1004.0,C005,2025-04-15,2025-07-30,186.36,Canada,Vancouver,FedEx Logistics,106 days,Delivered
+1005.0,C006,2024-12-24,2025-07-30,74.93,Usa,New York,UPS Worldwide,218 days,Delivered
+1006.0,C007,2024-12-24,2025-07-30,229.93,Usa,Los Angeles,Aramex International,218 days,Delivered
+1007.0,C008,2024-08-10,2025-07-30,209.94,Germany,Berlin,Aramex International,354 days,Delivered
+1008.0,C009,2025-02-06,2025-07-30,,Usa,Houston,DHL Express,174 days,Delivered
+1009.0,C010,2025-02-06,2025-07-30,394.37,Usa,Chicago,Kiwilytics Goods Shipping LLC,174 days,Delivered
+1010.0,C011,2024-12-03,2025-07-30,16.05,Germany,Unspecified,Aramex International,239 days,Delivered
+1011.0,C012,2024-10-08,2025-07-30,391.79,Canada,Vancouver,DHL Express,295 days,Delivered
+1012.0,C013,2024-10-08,2025-07-30,284.17,Canada,Vancouver,Kiwilytics Goods Shipping LLC,295 days,Delivered
+1013.0,C014,2025-02-04,2025-07-30,128.94,Usa,New York,DHL Express,176 days,Delivered
+1014.0,C015,2024-10-20,,345.8,Canada,Montreal,FedEx Logistics,,Pending
+1015.0,Unknown,2024-12-14,2025-07-30,141.77,Canada,Toronto,FedEx Logistics,228 days,Delivered
+1016.0,C017,2025-06-04,2025-07-30,81.51,Germany,Munich,Kiwilytics Goods Shipping LLC,56 days,Delivered
+1017.0,C018,2024-11-07,2025-07-30,145.22,Usa,Chicago,DHL Express,265 days,Delivered
+1018.0,C019,2024-12-09,2025-07-30,393.51,Egypt,Giza,UPS Worldwide,233 days,Delivered
+1019.0,C020,2024-11-15,2025-07-30,,Usa,Chicago,DHL Express,257 days,Delivered
+1020.0,C021,2025-07-06,,252.94,Uk,Manchester,UPS Worldwide,,Pending
+1021.0,C022,2025-03-18,2025-07-30,234.35,Canada,Toronto,Aramex International,134 days,Delivered
+1022.0,C023,2025-04-28,,13.32,Egypt,Giza,Aramex International,,Pending
+1023.0,C024,2025-07-06,2025-07-30,422.39,Egypt,Giza,Aramex International,24 days,Delivered
+1024.0,C025,2025-07-06,2025-07-30,432.48,Uk,London,DHL Express,24 days,Delivered
+1025.0,C026,2025-03-02,2025-07-30,221.0,Germany,Hamburg,Kiwilytics Goods Shipping LLC,150 days,Delivered
+1026.0,C027,2024-08-02,2025-07-30,329.01,Germany,Munich,UPS Worldwide,362 days,Delivered
+1027.0,C028,2025-02-15,2025-07-30,157.21,Canada,Montreal,DHL Express,165 days,Delivered
+1028.0,C029,2024-10-12,2025-07-30,350.69,Germany,Berlin,Aramex International,291 days,Delivered
+1029.0,C030,2024-09-01,2025-07-30,97.04,Egypt,Alexandria,FedEx Logistics,332 days,Delivered
+1030.0,C001,2024-09-01,2025-07-30,,Uk,London,Aramex International,332 days,Delivered
+1031.0,C002,2024-10-31,2025-07-30,320.12,Canada,Montreal,Kiwilytics Goods Shipping LLC,272 days,Delivered
+1032.0,C003,2025-05-05,2025-07-30,393.17,Usa,Houston,Aramex International,86 days,Delivered
+1033.0,C004,2025-01-03,2025-07-30,,Germany,Berlin,Kiwilytics Goods Shipping LLC,208 days,Delivered
+1034.0,C005,2025-02-04,,188.86,Canada,Montreal,FedEx Logistics,,Pending
+1035.0,C006,2025-03-02,2025-07-30,107.9,Uk,Liverpool,UPS Worldwide,150 days,Delivered
+1036.0,C007,2025-05-20,2025-07-30,98.16,Canada,Montreal,Aramex International,71 days,Delivered
+1037.0,C008,2025-05-20,2025-07-30,23.19,Germany,Berlin,Kiwilytics Goods Shipping LLC,71 days,Delivered
+1038.0,C009,2024-10-31,2025-07-30,472.06,Egypt,Cairo,UPS Worldwide,272 days,Delivered
+1039.0,C010,2025-04-24,,400.87,Uk,Liverpool,FedEx Logistics,,Pending
+1040.0,C011,2025-01-30,2025-07-30,43.89,Usa,Los Angeles,Kiwilytics Goods Shipping LLC,181 days,Delivered
+1041.0,C012,2025-04-06,2025-07-30,399.57,Uk,Manchester,FedEx Logistics,115 days,Delivered
+1042.0,C013,2025-05-02,2025-07-30,78.2,Canada,Montreal,FedEx Logistics,89 days,Delivered
+1043.0,C014,2025-02-05,2025-07-30,133.81,Usa,Chicago,DHL Express,175 days,Delivered
+1044.0,C015,2025-01-20,,217.33,Palestine,Gaza,UPS Worldwide,,Pending
+,C016,2025-06-02,,230.04,Uk,London,DHL Express,,Pending
+1046.0,C017,2024-08-05,,295.3,Canada,Montreal,FedEx Logistics,,Pending
+1047.0,C018,2024-09-04,2025-07-30,462.51,Usa,Chicago,Kiwilytics Goods Shipping LLC,329 days,Delivered
+1048.0,C019,2024-11-21,,214.97,Uk,London,Aramex International,,Pending
+1049.0,C020,2024-10-24,2025-07-30,,Usa,New York,DHL Express,279 days,Delivered
+1050.0,C021,2025-01-03,2025-07-30,273.08,Palestine,Gaza,Aramex International,208 days,Delivered
+1051.0,C022,2025-04-24,2025-07-30,51.64,Egypt,Cairo,DHL Express,97 days,Delivered
+1052.0,C023,2024-11-01,2025-07-30,332.22,Egypt,Alexandria,UPS Worldwide,271 days,Delivered
+1053.0,C024,2024-11-25,2025-07-30,327.03,Palestine,Al Quds,Aramex International,247 days,Delivered
+1054.0,C025,2025-04-13,2025-07-30,,Germany,Munich,DHL Express,108 days,Delivered
+1055.0,C026,2025-03-12,2025-07-30,483.74,Usa,Houston,FedEx Logistics,140 days,Delivered
+1056.0,C027,2024-12-20,2025-07-30,400.15,Germany,Hamburg,Kiwilytics Goods Shipping LLC,222 days,Delivered
+1057.0,C028,2025-01-29,2025-07-30,58.32,Canada,Toronto,FedEx Logistics,182 days,Delivered
+1058.0,C029,2025-03-01,2025-07-30,375.96,Egypt,Cairo,UPS Worldwide,151 days,Delivered
+1059.0,C030,2025-02-21,2025-07-30,346.96,Usa,Chicago,UPS Worldwide,159 days,Delivered
+1060.0,C001,2024-12-10,2025-07-30,193.32,Palestine,Al Quds,DHL Express,232 days,Delivered
+1061.0,C002,2025-01-11,2025-07-30,342.98,Uk,London,FedEx Logistics,200 days,Delivered
+1062.0,C003,2025-05-15,2025-07-30,83.87,Usa,Chicago,Aramex International,76 days,Delivered
+1063.0,C004,2025-02-28,2025-07-30,246.56,Canada,Vancouver,DHL Express,152 days,Delivered
+1064.0,C005,2024-12-05,2025-07-30,461.07,Palestine,Al Quds,DHL Express,237 days,Delivered
+1065.0,C006,2024-12-13,2025-07-30,417.35,Usa,New York,FedEx Logistics,229 days,Delivered
+1066.0,Unknown,2025-04-28,2025-07-30,180.68,Uk,Liverpool,Kiwilytics Goods Shipping LLC,93 days,Delivered
+1067.0,C008,2025-01-22,,394.29,Germany,Munich,UPS Worldwide,,Pending
+1068.0,C009,2024-11-12,2025-07-30,180.67,Usa,Houston,Aramex International,260 days,Delivered
+1069.0,C010,2024-11-26,2025-07-30,363.78,Canada,Montreal,UPS Worldwide,246 days,Delivered
+1070.0,C011,2024-11-04,2025-07-30,42.92,Palestine,Al Quds,DHL Express,268 days,Delivered
+1071.0,C012,2024-10-27,2025-07-30,,Usa,New York,Kiwilytics Goods Shipping LLC,276 days,Delivered
+1072.0,C013,2024-09-14,2025-07-30,327.51,Uk,London,DHL Express,319 days,Delivered
+1073.0,C014,2025-05-06,2025-07-30,90.53,Canada,Unspecified,Kiwilytics Goods Shipping LLC,85 days,Delivered
+1074.0,C015,2024-10-12,2025-07-30,129.52,Germany,Hamburg,FedEx Logistics,291 days,Delivered
+1075.0,C016,2024-11-29,2025-07-30,88.47,Germany,Munich,UPS Worldwide,243 days,Delivered
+1076.0,C017,2024-09-14,2025-07-30,479.65,Uk,Manchester,DHL Express,319 days,Delivered
+1077.0,C018,2025-05-14,2025-07-30,208.47,Canada,Toronto,Kiwilytics Goods Shipping LLC,77 days,Delivered
+1078.0,C019,2025-02-23,2025-07-30,323.83,Usa,Houston,Kiwilytics Goods Shipping LLC,157 days,Delivered
+1079.0,C020,2025-05-22,2025-07-30,24.3,Germany,Hamburg,DHL Express,69 days,Delivered
+1080.0,C021,2025-04-24,,106.69,Egypt,Cairo,UPS Worldwide,,Pending
+1081.0,C022,2024-10-09,2025-07-30,200.53,Usa,Chicago,FedEx Logistics,294 days,Delivered
+,C023,2024-10-12,2025-07-30,110.83,Usa,Houston,FedEx Logistics,291 days,Delivered
+1083.0,C024,2024-10-22,2025-07-30,406.28,Usa,Chicago,Aramex International,281 days,Delivered
+1084.0,C025,2025-05-12,2025-07-30,,Germany,Munich,Aramex International,79 days,Delivered
+1085.0,C026,2025-02-03,,169.73,Canada,Toronto,Aramex International,,Pending
+1086.0,C027,2024-11-14,2025-07-30,138.55,Palestine,Gaza,UPS Worldwide,258 days,Delivered
+1087.0,C028,2025-05-07,2025-07-30,268.58,Canada,Montreal,Aramex International,84 days,Delivered
+1088.0,C029,2025-03-15,2025-07-30,302.52,Uk,London,Aramex International,137 days,Delivered
+1089.0,C030,2025-05-21,2025-07-30,297.63,Egypt,Cairo,UPS Worldwide,70 days,Delivered
+1090.0,C001,2025-02-18,2025-07-30,424.3,Uk,Manchester,Aramex International,162 days,Delivered
+1091.0,C002,2025-03-18,,408.73,Palestine,Gaza,FedEx Logistics,,Pending
+1092.0,C003,2024-11-16,,155.75,Uk,London,DHL Express,,Pending
+1093.0,C004,2024-09-07,2025-07-30,51.53,Germany,Munich,FedEx Logistics,326 days,Delivered
+1094.0,C005,2025-06-18,2025-07-30,67.75,Canada,Vancouver,FedEx Logistics,42 days,Delivered
+1095.0,C006,2024-10-13,2025-07-30,99.69,Egypt,Alexandria,Kiwilytics Goods Shipping LLC,290 days,Delivered
+1096.0,C007,2024-11-22,2025-07-30,260.3,Canada,Vancouver,DHL Express,250 days,Delivered
+1097.0,C008,2024-10-26,2025-07-30,77.55,Usa,Chicago,FedEx Logistics,277 days,Delivered
+1098.0,C009,2024-12-17,2025-07-30,101.02,Palestine,Gaza,DHL Express,225 days,Delivered
+1099.0,C010,2024-10-07,2025-07-30,349.78,Uk,London,FedEx Logistics,296 days,Delivered
+1100.0,C011,2024-10-07,2025-07-30,499.95,Uk,Liverpool,UPS Worldwide,296 days,Delivered
+1101.0,C012,2024-10-07,2025-07-30,249.92,Usa,Los Angeles,UPS Worldwide,296 days,Delivered
+1102.0,C013,2024-08-04,2025-07-30,164.14,Usa,New York,Aramex International,360 days,Delivered
+1103.0,C014,2025-04-30,2025-07-30,36.27,Uk,Liverpool,UPS Worldwide,91 days,Delivered
+1104.0,C015,2025-02-22,,14.7,Palestine,Gaza,DHL Express,,Pending
+1105.0,C016,2024-09-17,2025-07-30,409.46,Canada,Montreal,Kiwilytics Goods Shipping LLC,316 days,Delivered
+1106.0,C017,2024-11-13,2025-07-30,257.66,Usa,Houston,Aramex International,259 days,Delivered
+1107.0,C018,2024-08-16,2025-07-30,345.5,Germany,Munich,FedEx Logistics,348 days,Delivered
+1108.0,C019,2024-08-20,2025-07-30,421.55,Germany,Hamburg,UPS Worldwide,344 days,Delivered
+1109.0,C020,2025-03-01,2025-07-30,,Egypt,Giza,Aramex International,151 days,Delivered
+1110.0,C021,2024-11-20,2025-07-30,,Palestine,Gaza,UPS Worldwide,252 days,Delivered
+1111.0,C022,2025-04-26,2025-07-30,,Uk,London,Aramex International,95 days,Delivered
+1112.0,C023,2024-09-17,2025-07-30,234.09,Egypt,Giza,DHL Express,316 days,Delivered
+1113.0,C024,2025-04-03,2025-07-30,385.3,Usa,Los Angeles,DHL Express,118 days,Delivered
+1114.0,C025,2025-07-02,2025-07-30,65.47,Palestine,Gaza,FedEx Logistics,28 days,Delivered
+1115.0,C026,2025-05-18,2025-07-30,389.81,Canada,Toronto,Aramex International,73 days,Delivered
+1116.0,C027,2025-02-05,2025-07-30,189.76,Canada,Toronto,Kiwilytics Goods Shipping LLC,175 days,Delivered
+,C028,2024-09-07,2025-07-30,30.39,Palestine,Gaza,DHL Express,326 days,Delivered
+1118.0,C029,2025-07-03,2025-07-30,277.71,Egypt,Cairo,FedEx Logistics,27 days,Delivered
+1119.0,C030,2024-08-03,2025-07-30,60.18,Egypt,Cairo,Aramex International,361 days,Delivered
+1120.0,C001,2025-03-09,2025-07-30,378.16,Palestine,Gaza,FedEx Logistics,143 days,Delivered
+1122.0,C003,2024-11-17,2025-07-30,180.8,Usa,New York,FedEx Logistics,255 days,Delivered
+1123.0,C004,2025-01-28,2025-07-30,225.14,Egypt,Giza,Aramex International,183 days,Delivered
+1124.0,C005,2025-01-28,2025-07-30,390.06,Egypt,Giza,UPS Worldwide,183 days,Delivered
+1125.0,C006,2025-01-17,2025-07-30,407.24,Uk,Manchester,Kiwilytics Goods Shipping LLC,194 days,Delivered
+1126.0,C007,2024-12-09,,181.81,Palestine,Gaza,DHL Express,,Pending
+1127.0,C008,2024-10-09,2025-07-30,320.06,Usa,Houston,Aramex International,294 days,Delivered
+1128.0,C009,2024-08-18,,78.23,Usa,Houston,Aramex International,,Pending
+1129.0,C010,2024-11-05,2025-07-30,111.4,Canada,Toronto,FedEx Logistics,267 days,Delivered
+1130.0,C011,2025-07-30,2025-07-30,,Germany,Hamburg,DHL Express,0 days,Delivered
+1131.0,C012,2025-06-29,2025-07-30,92.5,Germany,Berlin,UPS Worldwide,31 days,Delivered
+1132.0,C013,2025-01-31,2025-07-30,153.39,Usa,New York,UPS Worldwide,180 days,Delivered
+1133.0,C014,2024-09-12,2025-07-30,476.67,Uk,Liverpool,Kiwilytics Goods Shipping LLC,321 days,Delivered
+1134.0,C015,2025-06-14,2025-07-30,451.08,Uk,Manchester,Kiwilytics Goods Shipping LLC,46 days,Delivered
+1135.0,C016,2024-08-24,2025-07-30,76.44,Palestine,Gaza,FedEx Logistics,340 days,Delivered
+1136.0,C017,2025-01-01,2025-07-30,211.68,Egypt,Giza,DHL Express,210 days,Delivered
+1137.0,C018,2025-02-05,2025-07-30,,Germany,Munich,UPS Worldwide,175 days,Delivered
+1138.0,C019,2024-08-27,2025-07-30,434.38,Usa,Los Angeles,DHL Express,337 days,Delivered
+1139.0,C020,2025-03-11,2025-07-30,358.58,Uk,Manchester,FedEx Logistics,141 days,Delivered
+1140.0,C021,2025-03-31,2025-07-30,383.12,Canada,Montreal,DHL Express,121 days,Delivered
+1141.0,C022,2025-04-22,2025-07-30,249.83,Germany,Hamburg,DHL Express,99 days,Delivered
+1142.0,Unknown,2024-08-19,2025-07-30,141.67,Egypt,Cairo,DHL Express,345 days,Delivered
+1143.0,C024,2024-09-26,2025-07-30,231.48,Egypt,Alexandria,FedEx Logistics,307 days,Delivered
+1144.0,C025,2024-09-25,2025-07-30,441.26,Canada,Toronto,FedEx Logistics,308 days,Delivered
+1145.0,C026,2025-06-10,2025-07-30,262.65,Egypt,Alexandria,FedEx Logistics,50 days,Delivered
+1146.0,Unknown,2025-03-05,2025-07-30,468.8,Uk,London,UPS Worldwide,147 days,Delivered
+1147.0,C028,2024-11-24,2025-07-30,475.62,Uk,Manchester,Aramex International,248 days,Delivered
+1148.0,C029,2024-11-24,2025-07-30,11.21,Uk,Manchester,DHL Express,248 days,Delivered
+1149.0,C030,2024-09-01,2025-07-30,369.03,Egypt,Giza,Kiwilytics Goods Shipping LLC,332 days,Delivered
+1150.0,C001,2024-11-03,2025-07-30,234.64,Usa,Los Angeles,Kiwilytics Goods Shipping LLC,269 days,Delivered
+1151.0,C002,2024-09-14,2025-07-30,185.53,Canada,Vancouver,Aramex International,319 days,Delivered
+1152.0,C003,2025-03-03,,,Egypt,Alexandria,DHL Express,,Pending
+1153.0,C004,2025-03-03,2025-07-30,414.18,Uk,Liverpool,DHL Express,149 days,Delivered
+1154.0,C005,2025-01-07,2025-07-30,168.2,Egypt,Giza,DHL Express,204 days,Delivered
+1155.0,C006,2025-03-22,2025-07-30,278.18,Usa,Los Angeles,FedEx Logistics,130 days,Delivered
+1156.0,C007,2025-03-18,2025-07-30,427.69,Egypt,Unspecified,UPS Worldwide,134 days,Delivered
+1157.0,C008,2025-06-02,2025-07-30,448.14,Egypt,Giza,FedEx Logistics,58 days,Delivered
+1158.0,C009,2025-03-27,,32.51,Egypt,Giza,DHL Express,,Pending
+1159.0,C010,2024-10-25,2025-07-30,419.98,Uk,Unspecified,Aramex International,278 days,Delivered
+1160.0,C011,2025-05-27,2025-07-30,,Germany,Berlin,DHL Express,64 days,Delivered
+1161.0,C012,2025-02-17,,10.33,Usa,Chicago,DHL Express,,Pending
+1162.0,C013,2024-12-24,2025-07-30,109.14,Germany,Munich,UPS Worldwide,218 days,Delivered
+1163.0,C014,2024-12-24,2025-07-30,74.64,Canada,Montreal,DHL Express,218 days,Delivered
+1164.0,C015,2025-01-20,2025-07-30,87.9,Germany,Berlin,FedEx Logistics,191 days,Delivered
+1165.0,C016,2025-07-17,,144.27,Canada,Toronto,Kiwilytics Goods Shipping LLC,,Pending
+1166.0,C017,2025-01-17,,132.69,Canada,Toronto,UPS Worldwide,,Pending
+1167.0,C018,2024-11-22,2025-07-30,452.86,Canada,Toronto,UPS Worldwide,250 days,Delivered
+1168.0,C019,2025-06-29,2025-07-30,204.21,Egypt,Cairo,UPS Worldwide,31 days,Delivered
+1169.0,C020,2025-03-15,2025-07-30,352.73,Uk,Liverpool,DHL Express,137 days,Delivered
+1170.0,C021,2025-01-12,2025-07-30,331.19,Canada,Vancouver,UPS Worldwide,199 days,Delivered
+1171.0,C022,2024-11-25,2025-07-30,10.53,Uk,Manchester,UPS Worldwide,247 days,Delivered
+,C023,2025-03-07,2025-07-30,75.02,Germany,Munich,FedEx Logistics,145 days,Delivered
+1173.0,C024,2025-03-28,2025-07-30,343.19,Usa,New York,Aramex International,124 days,Delivered
+1174.0,C025,2024-08-22,2025-07-30,,Canada,Vancouver,FedEx Logistics,342 days,Delivered
+1175.0,C026,2025-03-23,2025-07-30,216.93,Egypt,Giza,FedEx Logistics,129 days,Delivered
+1176.0,C027,2025-05-13,2025-07-30,44.71,Egypt,Cairo,Aramex International,78 days,Delivered
+1177.0,C028,2025-05-13,2025-07-30,368.07,Egypt,Giza,Aramex International,78 days,Delivered
+1178.0,C029,2025-05-22,2025-07-30,163.54,Germany,Munich,UPS Worldwide,69 days,Delivered
+1179.0,C030,2024-10-18,2025-07-30,77.19,Uk,London,FedEx Logistics,285 days,Delivered
+1180.0,C001,2025-03-29,2025-07-30,379.05,Uk,Liverpool,DHL Express,123 days,Delivered
+1181.0,C002,2024-10-19,,496.54,Usa,Chicago,Kiwilytics Goods Shipping LLC,,Pending
+1182.0,C003,2024-11-09,2025-07-30,269.95,Usa,Houston,Kiwilytics Goods Shipping LLC,263 days,Delivered
+1183.0,C004,2025-04-12,,,Usa,Los Angeles,Kiwilytics Goods Shipping LLC,,Pending
+1184.0,C005,2025-04-12,2025-07-30,114.4,Germany,Berlin,FedEx Logistics,109 days,Delivered
+1185.0,C006,2024-08-30,2025-07-30,460.75,Canada,Montreal,Aramex International,334 days,Delivered
+1186.0,C007,2024-09-28,2025-07-30,226.77,Canada,Montreal,UPS Worldwide,305 days,Delivered
+1187.0,C008,2024-10-31,,449.33,Canada,Vancouver,UPS Worldwide,,Pending
+1188.0,C009,2024-10-05,,70.35,Egypt,Giza,Kiwilytics Goods Shipping LLC,,Pending
+1189.0,C010,2025-03-01,2025-07-30,182.25,Usa,New York,UPS Worldwide,151 days,Delivered
+1190.0,Unknown,2024-08-28,2025-07-30,397.63,Egypt,Cairo,DHL Express,336 days,Delivered
+1191.0,C012,2024-09-28,2025-07-30,325.86,Canada,Montreal,DHL Express,305 days,Delivered
+1192.0,C013,2024-07-31,2025-07-30,304.49,Usa,Los Angeles,Aramex International,364 days,Delivered
+1194.0,C015,2025-01-20,2025-07-30,23.14,Uk,Liverpool,FedEx Logistics,191 days,Delivered
+1195.0,C016,2025-04-23,2025-07-30,439.16,Uk,Manchester,UPS Worldwide,98 days,Delivered
+1196.0,C017,2025-03-17,2025-07-30,307.39,Egypt,Alexandria,FedEx Logistics,135 days,Delivered
+1197.0,C018,2025-01-28,2025-07-30,201.96,Egypt,Alexandria,Kiwilytics Goods Shipping LLC,183 days,Delivered
+,C019,2024-11-20,2025-07-30,394.06,Canada,Vancouver,FedEx Logistics,252 days,Delivered
+1199.0,C020,2024-11-20,2025-07-30,127.28,Uk,Liverpool,Kiwilytics Goods Shipping LLC,252 days,Delivered
+1200.0,C021,2024-10-27,2025-07-30,128.13,Germany,Hamburg,DHL Express,276 days,Delivered
+1201.0,C022,2024-11-18,2025-07-30,44.8,Egypt,Giza,UPS Worldwide,254 days,Delivered
+1202.0,C023,2025-04-30,2025-07-30,15.91,Usa,New York,Aramex International,91 days,Delivered
+1203.0,C024,2024-11-16,2025-07-30,165.07,Germany,Hamburg,UPS Worldwide,256 days,Delivered
+1204.0,C025,2025-04-29,2025-07-30,421.1,Uk,Liverpool,Kiwilytics Goods Shipping LLC,92 days,Delivered
+1205.0,C026,2025-06-28,2025-07-30,277.71,Germany,Hamburg,UPS Worldwide,32 days,Delivered
+1206.0,C027,2025-01-22,2025-07-30,,Uk,Manchester,Aramex International,189 days,Delivered
+1207.0,C028,2024-08-26,2025-07-30,45.77,Usa,Houston,Kiwilytics Goods Shipping LLC,338 days,Delivered
+1208.0,C029,2025-04-22,2025-07-30,16.76,Usa,Chicago,Kiwilytics Goods Shipping LLC,99 days,Delivered
+1209.0,C030,2024-10-28,2025-07-30,462.06,Uk,Liverpool,Aramex International,275 days,Delivered
+1210.0,C001,2025-07-23,2025-07-30,205.01,Uk,Manchester,UPS Worldwide,7 days,Delivered
+,C002,2024-11-09,2025-07-30,359.19,Uk,Liverpool,Aramex International,263 days,Delivered
+1213.0,C004,2025-06-02,2025-07-30,323.86,Canada,Montreal,DHL Express,58 days,Delivered
+1214.0,C005,2025-03-29,2025-07-30,84.81,Canada,Toronto,Aramex International,123 days,Delivered
+1215.0,C006,2025-03-16,2025-07-30,48.72,Germany,Munich,Kiwilytics Goods Shipping LLC,136 days,Delivered
+1216.0,C007,2025-04-12,2025-07-30,487.41,Uk,Liverpool,FedEx Logistics,109 days,Delivered
+1217.0,C008,2025-06-07,,170.11,Canada,Montreal,DHL Express,,Pending
+1218.0,C009,2025-07-27,2025-07-30,383.98,Usa,Houston,Aramex International,3 days,Delivered
+1219.0,C010,2024-10-14,2025-07-30,325.15,Uk,Manchester,DHL Express,289 days,Delivered
+1220.0,C011,2025-01-11,,224.37,Egypt,Alexandria,UPS Worldwide,,Pending
+1221.0,C012,2024-09-12,2025-07-30,126.93,Egypt,Giza,Kiwilytics Goods Shipping LLC,321 days,Delivered
+1222.0,C013,2025-02-26,2025-07-30,463.07,Usa,Los Angeles,Aramex International,154 days,Delivered
+1223.0,C014,2024-10-25,2025-07-30,310.03,Uk,Liverpool,Kiwilytics Goods Shipping LLC,278 days,Delivered
+1224.0,C015,2025-04-07,2025-07-30,,Canada,Montreal,FedEx Logistics,114 days,Delivered
+1225.0,C016,2024-09-25,2025-07-30,68.53,Germany,Hamburg,FedEx Logistics,308 days,Delivered
+1226.0,C017,2025-07-17,2025-07-30,353.73,Egypt,Giza,DHL Express,13 days,Delivered
+1227.0,C018,2024-11-10,,476.98,Uk,Liverpool,FedEx Logistics,,Pending
+1228.0,C019,2025-06-16,,393.66,Uk,London,FedEx Logistics,,Pending
+1229.0,C020,2024-09-23,2025-07-30,91.81,Germany,Berlin,Aramex International,310 days,Delivered
+1230.0,C021,2024-08-26,,392.75,Uk,London,Kiwilytics Goods Shipping LLC,,Pending
+1231.0,C022,2024-08-22,2025-07-30,444.34,Egypt,Cairo,DHL Express,342 days,Delivered
+1232.0,C023,2024-10-02,2025-07-30,24.38,Uk,Liverpool,FedEx Logistics,301 days,Delivered
+1233.0,C024,2025-06-02,2025-07-30,143.27,Germany,Berlin,Kiwilytics Goods Shipping LLC,58 days,Delivered
+1234.0,C025,2024-11-26,2025-07-30,,Uk,Liverpool,UPS Worldwide,246 days,Delivered
+1235.0,C026,2025-03-18,2025-07-30,253.11,Usa,Los Angeles,Aramex International,134 days,Delivered
+1236.0,C027,2025-05-16,2025-07-30,37.17,Uk,London,FedEx Logistics,75 days,Delivered
+1237.0,C028,2025-06-15,2025-07-30,91.77,Uk,Manchester,FedEx Logistics,45 days,Delivered
+1238.0,C029,2025-03-08,2025-07-30,388.93,Uk,Manchester,FedEx Logistics,144 days,Delivered
+1239.0,C030,2025-07-22,2025-07-30,340.32,Uk,Liverpool,Kiwilytics Goods Shipping LLC,8 days,Delivered
+1240.0,C001,2024-11-19,2025-07-30,372.98,Uk,Manchester,Aramex International,253 days,Delivered
+1241.0,C002,2024-11-19,2025-07-30,,Usa,Houston,Aramex International,253 days,Delivered
+1242.0,C003,2025-01-16,2025-07-30,241.16,Usa,New York,Kiwilytics Goods Shipping LLC,195 days,Delivered
+1243.0,C004,2024-09-16,2025-07-30,83.54,Egypt,Cairo,DHL Express,317 days,Delivered
+1244.0,C005,2025-01-28,2025-07-30,430.17,Germany,Berlin,Aramex International,183 days,Delivered
